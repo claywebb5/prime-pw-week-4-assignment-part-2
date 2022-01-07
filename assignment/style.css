@@ -1,0 +1,29 @@
+header {
+  background-color: #c0c0c0;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  margin-bottom: 10px;
+}
+h1 {
+  margin: 0;
+}
+p {
+  margin: 2px;
+}
+.info {
+  background-color: #000080;
+  text-align: center;
+  color: #f5fffa;
+  padding: 5px;
+}
+.myCar {
+  justify-content: center;
+  align-content: space-around;
+}
+.moreInfo {
+  background-color: #ffa500;
+  color: #708090;
+  padding: 5px;
+  text-align: center;
+}
